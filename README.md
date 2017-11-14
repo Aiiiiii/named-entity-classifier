@@ -1,7 +1,7 @@
 # named-entity-classifier
 
 
-In this repo, we will train a word2vec model, then use it to improve the named-entity classifier from a Logistic Regression.
+In this repo, we train a word2vec model, then use it to improve the named-entity classifier from a Logistic Regression.
 
 
 We also use TensorFlow to implement a Recurrent Neural Network for the Named Entity Recognition problem.  
